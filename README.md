@@ -1,0 +1,2 @@
+# Mastermind
+Repository for mastermind
